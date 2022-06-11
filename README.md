@@ -7,3 +7,4 @@ The game uses Java Swing components and the game logic is purely invented by the
 
 ##Note
 The program was first coded in windows and soon transferred to Mac and these two provide different output when it runs, so users might need to make its own configuration base on their OS
+
